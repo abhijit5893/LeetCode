@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BitManipulation/Single Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/Sum of Two Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/Valid Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/Contains Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/First Unique Character in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/Happy Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/Intersection of Two Arrays II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/Two Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
