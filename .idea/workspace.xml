@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DepthFirstSearch/Surrounded Regions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DepthFirstSearch/Validate Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/DepthFirstSearch/Validate Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Single Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Sum of Two Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/Valid Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../talkback/talkback-lambda" />
   </component>
   <component name="RunManager" selected="Python.bfs_impl">
     <configuration name="bfs_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -121,12 +124,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590762756518">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590762756518" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591390844746">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1591390844746" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1590843471970">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
