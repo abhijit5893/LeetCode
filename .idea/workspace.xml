@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HashTable/Count Primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/Top K Frequent Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Majority Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Missing Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Number of 1 Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Reverse Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Sort Colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
