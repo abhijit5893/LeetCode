@@ -44,4 +44,4 @@ class Solution:
                 elif table.get(2,0) > 0:
                     nums[i] = 2
                     table[2] -= 1
-            '''          
+            '''
