@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/Delete Node in a Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Intersection of Two Linked Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Linked List Cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Merge Two Sorted Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Palindrome Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Reverse Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Odd Even Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Sort List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/Sort Colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/Sort Colors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
