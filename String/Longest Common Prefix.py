@@ -24,4 +24,4 @@ class Solution:
                 if other[i] != ch:
                     return shortest[:i]
         return shortest 
-        '''
+        '''e

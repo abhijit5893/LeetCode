@@ -20,11 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/String/Implement strStr().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Longest Common Prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Reverse String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Roman to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Merge Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Move Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Pascal's Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Plus One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Rotate Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Excel Sheet Column Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Power of Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Reverse Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc/Fizz Buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math/Fizz Buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/Longest Common Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Longest Common Prefix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
