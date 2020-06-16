@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sort/Merge Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Implement strStr().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Longest Common Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Reverse String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Roman to Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
