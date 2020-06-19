@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee4ee1-efea-47da-91a3-7a67a8835900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/House Robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Longest Increasing Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Maximum Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Kth Largest Element in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Wiggle Sort II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Lowest Common Ancestor of a Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
